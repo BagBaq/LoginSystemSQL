@@ -23,4 +23,5 @@
 # Notes
 
 - Mail verification isn't ready.
+- <a href="https://youtu.be/ShbHwaiyOps">Youtube</a>
 
